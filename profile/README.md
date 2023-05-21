@@ -27,7 +27,7 @@ Our team consist of 3 distinct division, with each with its own set of responsib
 ### Mobile Development Division
 | Bangkit ID | Name | Social Media |
 |:----------:|:----:|--------------|
-|A185DSX3048|Muhammad Risto Abrar|[LinkedIn](https://www.linkedin.com/)  [Github](https://github.com/) |
+|A185DSX3048|Muhammad Risto Abrar|[LinkedIn](https://www.linkedin.com/in/muhammad-risto-649536210/)  [Github](https://github.com/) |
 
 ## Repository
   
