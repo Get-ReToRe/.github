@@ -13,7 +13,7 @@ Our team consist of 3 distinct division, with each with its own set of responsib
 ### Machine Learning Division
 | Bangkit ID | Name | Social Media |
 |:----------:|:----:|--------------|
-|M340DSX0121|Muhammad Fikrussyifa Kemal Fasya|[LinkedIn](https://www.linkedin.com/)  [Github](https://github.com/) |
+|M340DSX0121|Muhammad Fikrussyifa Kemal Fasya|[LinkedIn](https://www.linkedin.com/in/fkrssyf)  [Github](https://github.com/fkrssyf) |
 |M340DSX3643|Aldin Wildan Razaqa|[LinkedIn](https://www.linkedin.com/)  [Github](https://github.com/) |
 |M185DKX4196|Helmy Fachreza Himawan|[LinkedIn](https://www.linkedin.com/)  [Github](https://github.com/) |
 
