@@ -35,7 +35,7 @@ Our team consist of 3 distinct division, with each with its own set of responsib
 1. [Repo-ML](https://github.com/Get-ReToRe). coming soon.
 
 ### Cloud Computing
-1. [Repo-CC](https://github.com/Get-ReToRe). coming soon.
+1. [Get ReToRe-API](https://github.com/Get-ReToRe/Get-ReToRe-API).
 
 ### Mobile Development
 1. [Repo-MD](https://github.com/Get-ReToRe). coming soon.
