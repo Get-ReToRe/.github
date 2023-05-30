@@ -32,13 +32,13 @@ Our team consist of 3 distinct division, with each with its own set of responsib
 ## Repository
   
 ### Machine Learning
-1. [Repo-ML](https://github.com/Get-ReToRe/ML-Repo).
+• [Repo-ML](https://github.com/Get-ReToRe/ML-Repo).
 
 ### Cloud Computing
-1. [Get ReToRe-API](https://github.com/Get-ReToRe/Get-ReToRe-API).
+• [Get ReToRe-API](https://github.com/Get-ReToRe/Get-ReToRe-API).
 
 ### Mobile Development
-1. [Repo-MD](https://github.com/Get-ReToRe/MD-Repo).
+• [Repo-MD](https://github.com/Get-ReToRe/MD-Repo).
   
 </details>
 
