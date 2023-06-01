@@ -1,4 +1,4 @@
-<p align="center"><img src="../profile/1.png" alt="Get ReToRe Logo" width="250px"></p>
+<p align="center"><img src="https://github.com/Get-ReToRe/.github/assets/90306866/111bfa6c-eb47-4740-96d3-5f93dadd7714.png" alt="Get ReToRe Logo" width="250px"></p>
 <h1 align="center"> C23-PS041-Get ReToRe <br> (Budget Recommendation for Tourist & Recreation) </h1>
 
 Halo lur👋 We're a team consist of 6 peoples from Indonesia in a programs called Bangkit Academy, founded and arranged by Google, Traveloka, Goto and Dicoding. We're creating a Product-based Capstone Project with selected theme of Tourism, Cultural, and Hospitality. The aim of this Capstone Project is to develop a travel recommendation system based on budget constraints using machine learning techniques that integrate with cloud computing services and can be accessed easily through android mobile apps.
