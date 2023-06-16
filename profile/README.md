@@ -7,7 +7,7 @@ Halo lur👋 We're a team consist of 6 peoples from Indonesia in a programs call
    <summary align="center">More Information</summary>
 
 ## Our Teams
-Our team consist of 3 distinct division, with each with its own set of responsibilities. The Machine Learning Division focuses on creating algorithms to enhance the optimization and presentation of travel recommendations. The Mobile Development Division focuses on designing an application interface where the user can interact. Finally, the Cloud Computing Division is responsible for developing an API that facilitates data transfer and connects the Machine Learning Division to the Mobile Development Division
+Our team consist of 3 distinct division, with each with its own set of responsibilities. The Machine Learning Division focuses on creating ML models to enhance the optimization and presentation of travel recommendations. The Mobile Development Division focuses on designing an application interface where the user can interact. Finally, the Cloud Computing Division is responsible for developing an API that facilitates data transfer and connects the Machine Learning Division to the Mobile Development Division
 
 
 ### Machine Learning Division
