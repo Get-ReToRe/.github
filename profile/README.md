@@ -4,9 +4,9 @@
 Halo lur👋 We're a team consist of 6 peoples from Indonesia in a programs called Bangkit Academy, founded and arranged by Google, Traveloka, Goto and Dicoding. We're creating a Product-based Capstone Project with selected theme of Tourism, Cultural, and Hospitality. The aim of this Capstone Project is to develop a travel recommendation system based on budget constraints using machine learning techniques that integrate with cloud computing services and can be accessed easily through android mobile apps.
 
 <p align="center">
-	<img src="image/first.png" width="25%"> &nbsp; &nbsp; &nbsp;
-	<img src="image/second.png" width="25%"> &nbsp; &nbsp; &nbsp;
-	<img src="image/third.png" width="25%">
+	<img src="https://github.com/Get-ReToRe/.github/assets/90306866/3942b4d7-7911-478c-98ed-dd430744d9a5" width="25%"> &nbsp; &nbsp; &nbsp;
+	<img src="https://github.com/Get-ReToRe/.github/assets/90306866/ffaea579-6763-4977-ab3d-70aed8330a3b" width="25%"> &nbsp; &nbsp; &nbsp;
+	<img src="https://github.com/Get-ReToRe/.github/assets/90306866/ca913fc2-b3ac-4859-818b-5c3ca09965f6" width="25%">
 </p>
 
 <details>
